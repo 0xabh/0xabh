@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @0xabh
+- 🎓 I'm a computer engineer 
+- 👀 I’m interested in web3, DeFi, L2, andro humanoids, astrophysics and deep space research
+- 🌱 I’m currently trying to solve India's crypto adoption problem
+- 📫 You can reach me at abhishek@joinclamp.com
